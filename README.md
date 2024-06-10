@@ -1,5 +1,7 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526669888)
 
+[![Python application test with Github Actions](https://github.com/SkyBlueRW/py-codespace-template/actions/workflows/main.yml/badge.svg)](https://github.com/SkyBlueRW/py-codespace-template/actions/workflows/main.yml)
+
 # Python Codespace Template
 
 _Create or extend a ready-to-use repository for teaching Python in minutes_
